@@ -5,7 +5,7 @@ Simple progress bar for console programs.
 ## Installation
 
 ```
-go get github.com/cheggaaa/pb
+go get github.com/agenttechnoman/pb
 ```   
 
 ## Usage   
@@ -14,7 +14,7 @@ go get github.com/cheggaaa/pb
 package main
 
 import (
-	"github.com/cheggaaa/pb"
+	"github.com/agenttechnoman/pb"
 	"time"
 )
 
@@ -133,7 +133,7 @@ import (
     "sync"
     "time"
 
-    "github.com/cheggaaa/pb"
+    "github.com/agenttechnoman/pb"
 )
 
 func main() {
