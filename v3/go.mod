@@ -1,4 +1,5 @@
-module github.com/agenttechnoman/pb/v3
+#module github.com/agenttechnoman/pb/v3
+replace github.com/cheggaaa/pb/v3 github.com/agenttechnoman/pb/v3
 
 require (
 	github.com/VividCortex/ewma v1.2.0
