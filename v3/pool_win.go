@@ -8,7 +8,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/cheggaaa/pb/v3/termutil"
+	"github.com/agenttechnoman/pb/v3/termutil"
 )
 
 func (p *Pool) print(first bool) bool {
