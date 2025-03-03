@@ -1,4 +1,3 @@
-#module github.com/agenttechnoman/pb/v3
 replace github.com/cheggaaa/pb github.com/agenttechnoman/pb
 
 require (
